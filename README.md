@@ -3,7 +3,6 @@
 Software Development Semester 4
 Algorithms And Datastructures QAP 1
 
-- QAP
 
 1. A doubly linked list can be utilized to implement a browser history feature.
 Each URL visited is stored as a node in the list, with the “next” pointer representing the forward navigation and the “previous” pointer representing the backward navigation.
